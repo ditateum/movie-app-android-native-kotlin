@@ -1,11 +1,12 @@
-package com.ditateum.movieapp
+package com.ditateum.movieapp.sign
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.ditateum.movieapp.R
 
-class SignUpPhotoScreenActivity : AppCompatActivity() {
+class SignInActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_sign_up_photo_screen)
+        setContentView(R.layout.activity_sign_in)
     }
 }
