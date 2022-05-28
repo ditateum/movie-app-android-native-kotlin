@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Movie App</string>
+
+    <!--  Onboarding Page  -->
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="now_playing_desc">Lebih mudah untuk mengetahui<br />film yang sedang tampil</string>
+    <string name="pre_sale">Pre Sale</string>
+    <string name="pre_sale_desc">Tidak khawatir ketinggalan<br />update film terbaru</string>
+    <string name="cashless">Cashless</string>
+    <string name="cashless_desc">Gunakan e-wallet untuk<br />transaksi tiket nonton</string>
+    <string name="memulai">Memulai</string>
+
+    <!--  Sign In and Sign Up Page  -->
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="daftar_akun_baru">Daftar Akun Baru</string>
+    <string name="name">Nama</string>
+    <string name="email">Email Address</string>
+    <string name="upload_phoro">Upload Nanti</string>
+    <string name="photo">Photo</string>
+    <string name="welcome">Selamat Datang,<br />Dita Permata Putra</string>
+    <string name="simpan_lanjutkan">Simpan dan Lanjutkan</string>
+
+    <!--  HomePage  -->
+    <string name="coming_soon">Coming Soon</string>
+    <string name="pilih_bangku">Pilih Bangku</string>
+</resources>
