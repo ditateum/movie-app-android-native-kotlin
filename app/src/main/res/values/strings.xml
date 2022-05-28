@@ -5,11 +5,20 @@
     <string name="lewati_perkenalan">Lewati Perkenalan</string>
     <string name="lanjutkan">Lanjutkan</string>
     <string name="now_playing">Now Playing</string>
-    <string name="now_playing_desc">Lebih mudah untuk mengetahui<br />film yang sedang tampil</string>
+    <string name="now_playing_desc">
+        Lebih mudah untuk mengetahui \n
+        film yang sedang tampil
+    </string>
     <string name="pre_sale">Pre Sale</string>
-    <string name="pre_sale_desc">Tidak khawatir ketinggalan<br />update film terbaru</string>
+    <string name="pre_sale_desc">
+        Tidak khawatir ketinggalan \n
+        update film terbaru
+    </string>
     <string name="cashless">Cashless</string>
-    <string name="cashless_desc">Gunakan e-wallet untuk<br />transaksi tiket nonton</string>
+    <string name="cashless_desc">
+        Gunakan e-wallet untuk \n
+        transaksi tiket nonton
+    </string>
     <string name="memulai">Memulai</string>
 
     <!--  Sign In and Sign Up Page  -->
@@ -28,7 +37,6 @@
 
     <!--  HomePage  -->
     <string name="coming_soon">Coming Soon</string>
-    <string name="pilih_bangku">Pilih Bangku</string>
     <string name="pilih_bangku">Pilih Bangku</string>
     <string name="beli_tiket">Beli Tiket</string>
     <string name="selected">Selected</string>
