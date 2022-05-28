@@ -44,4 +44,5 @@
     <string name="my_wallet">My Wallet</string>
     <string name="saldo_tersedia">Saldo Tersedia</string>
     <string name="daftar_transaksi">Daftar Transaksi</string>
+    <string name="my_history">My History</string>
 </resources>
