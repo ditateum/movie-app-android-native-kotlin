@@ -31,4 +31,12 @@
     <string name="pilih_bangku">Pilih Bangku</string>
     <string name="pilih_bangku">Pilih Bangku</string>
     <string name="beli_tiket">Beli Tiket</string>
+    <string name="selected">Selected</string>
+    <string name="empty">Empty</string>
+    <string name="booked">Booked</string>
+    <string name="checkout">Checkout</string>
+    <string name="bayar_sekarang">Bayar Sekarang</string>
+    <string name="batalkan">Batalkan</string>
+    <string name="date_and_time"><![CDATA[Date & Time]]></string>
+    <string name="cinema">Cinema</string>
 </resources>
