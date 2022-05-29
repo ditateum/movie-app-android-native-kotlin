@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869360494858",
+    "firebase_url": "https://bioskop-nana-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bioskop-nana",
+    "storage_bucket": "bioskop-nana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869360494858:android:fe115d5d152459ad2ff2f3",
+        "android_client_info": {
+          "package_name": "com.ditateum.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869360494858-bi9fr1ukhhqqse0j7la2jsdv978cltku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9d6VDvg5czkteB7CRc_DcQlX2WOuLHXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869360494858-bi9fr1ukhhqqse0j7la2jsdv978cltku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
